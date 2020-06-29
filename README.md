@@ -1,2 +1,2 @@
 # hello-world
-It's a new nom.
+It's a new norm.
